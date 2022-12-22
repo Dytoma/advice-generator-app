@@ -34,7 +34,7 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://dytoma.github.io/advice-generator-app/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -95,4 +95,4 @@ Do more projects on APIs and master this subject.
 
 ## Acknowledgments
 
-I got inpired by a frontend mentor member when I was stuck on how to use the API to display advices to the html page.
+I got inpired by a frontend mentor member when I was stuck on how to use the API to display advices to the html page. This is her profile https://www.frontendmentor.io/profile/syntaCorp 
