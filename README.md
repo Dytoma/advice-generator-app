@@ -90,7 +90,7 @@ Do more projects on APIs and master this subject.
 
 ## Author
 
-- Frontend Mentor - [@Dytoma](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Dytoma](https://www.frontendmentor.io/profile/Dytoma)
 
 
 ## Acknowledgments
