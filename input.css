@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button {
+    transition: all .5s linear;
+}
+
+button:hover {
+    box-shadow: hsl(150, 100%, 66%) 0px 5px 15px;
+}
+button:hover img {
+    animation: rotate .8s ease-in-out .5s;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

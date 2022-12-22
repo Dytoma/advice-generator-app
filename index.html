@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Advice generator app</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    .attribution { font-size: 14px; text-align: center; padding-bottom: 20px;}
+  </style>
+</head>
+<body>
+
+  <main class="flex items-center justify-center bg-darkBlue min-h-screen">
+    <div class="rounded-2xl p-12 pb-20 font-manrope bg-darkGrayishBlue text-center flex flex-col items-center relative w-[349px] md:w-[540px]">
+      <h1 class="text-neonGreen text-[12px] tracking-[0.395rem] mb-6 advice-id">ADVICE #117</h1>
+      <p id="advice" class="text-lightCyan text-[28px] message">“It is easy to sit up and take notice, what’s difficult is getting up and taking action.”</p>
+      <img src="images/pattern-divider-desktop.svg" alt="" class="pt-3 hidden md:block">
+      <img src="images/pattern-divider-mobile.svg" alt="" class="md:hidden pt-3">
+
+      <button class="rounded-full p-5 bg-neonGreen absolute -bottom-[32px]">
+        <img src="images/icon-dice.svg" alt="">
+      </button>
+    </div>
+  </main>
+  
+  <div class="attribution bg-darkBlue text-lightCyan font-manrope">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" class="text-neonGreen">Frontend Mentor</a>. 
+    Coded by <a href="#" target="_blank" class="text-neonGreen">Dytoma</a>.
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
