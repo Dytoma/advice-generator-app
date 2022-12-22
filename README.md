@@ -35,7 +35,7 @@ This is a screenshot of my solution.
 ### Links
 
 - Solution URL: [Solution URL](https://dytoma.github.io/advice-generator-app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://dytoma.github.io/advice-generator-app/)
 
 ### Built with
 
